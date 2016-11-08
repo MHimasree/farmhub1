@@ -167,7 +167,7 @@ div.border{
 }
 </style>
 </head>
-<body style="background-color:wheat;background-image:url(images/back1.jpg);width:100%">
+<body style="background-color:aqua;background-image:url(images/back1.jpg);width:100%">
 <div class="wrapper">
 <a name="top"></a>
 <div class="container" style="background-color:olivedrab">
